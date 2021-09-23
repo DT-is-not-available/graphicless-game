@@ -1,1 +1,15 @@
-ey so ive never updated this so no patch notes D:
+FIRST RELEASE: Alpha 0.1
+New features:
+  +  player (WASD and SPACE to control)
+  +  solid ground (very solid)
+  +  semisolids (jump through)
+  +  moving platforms (they move)
+  +  falling platforms (they fall when you touch them)
+  +  crumble blocks (can be destroyed by hitting from below or "trailing" into them)
+  +  powerups:
+       +  double jump (jump once while in mid-air)
+	   +  dash (SPACE+A or SPACE+D to dash in a direction while in mid-air, can break crumble blocks)
+	   +  groundpound (S in mid-air, can break crumble blocks
+  +  unfinished goal (green spinny thing)
+  +  launcher (you are in it right now)
+  +  auto updates (woo only one download)
