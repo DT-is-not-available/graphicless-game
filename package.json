@@ -11,7 +11,7 @@
 		"resizable": true,
 		"frame": true,
 		"kiosk": false,
-		"show": false
+		"show": true
 	},
 	"dom_storage_quota": 50,
 	"user-agent": "Mozilla/5.0 (%osinfo) AppleWebKit/%webkit_ver (KHTML, like Gecko, Chrome, Safari) NWjs/%nwver",
